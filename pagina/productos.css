@@ -1,0 +1,14 @@
+
+div#registroproductos {
+    border: solid 1px;
+    width: 375px;
+    padding: 30px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 30px;
+    background: #e9ecef;
+}
+div#mensajes {
+    position: absolute;
+    right: 0px;
+}
